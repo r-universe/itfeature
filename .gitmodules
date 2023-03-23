@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "liureg"]
+	path = liureg
+	url = https://github.com/cran/liureg
+	shallow = true
+	registered = true
+[submodule "lmridge"]
+	path = lmridge
+	url = https://github.com/cran/lmridge
+	shallow = true
+	registered = true
+[submodule "mctest"]
+	path = mctest
+	url = https://github.com/cran/mctest
+	shallow = true
+	registered = true
